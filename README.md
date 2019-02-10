@@ -35,5 +35,3 @@ Right now the cross compiler hangs because perl decided it has to execute its bi
 
 don't get me started about how disabling building the manual/documentation doesnt do exactly this if you don't scream at the settings for 2 hours.
 fuck.
-
-### Anyway...
